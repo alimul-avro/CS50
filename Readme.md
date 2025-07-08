@@ -1,7 +1,10 @@
 # GitHub Dark Theme (CS50 Style)
 
 This setting makes the **GitHub Dark theme** in VS Code look exactly like the **CS50 IDE** version.  
-Simply paste the configuration below into your VS Code settings.
+Simply paste the configuration below into your VS Code settings.'
+For the complete experience, we recommend installing these extensions:
+
+- [GitHub Dark Default Theme](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme)
 
 ## 🛠 Installation
 
