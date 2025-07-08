@@ -9,7 +9,7 @@ Hi, I figured it out! So the theme is basically GitHub Dark Default with a few c
 
 Step 1: Set the theme to GitHub Dark Default.
 
-Step 2: Press `Ctrl + Shift + P` and then type `Preferences: Open Settings (JSON)`
+Step 2: Press `Ctrl + Shift + P` and then type `Preferences: Open User Settings (JSON)`
 
 Step 3: Scroll down until you find `workbench.colorCustomizations` and then inside that you should paste this: 
 ```json
