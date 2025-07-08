@@ -5,11 +5,13 @@ Simply paste the configuration below into your VS Code settings.
 
 ## 🛠 Installation
 
-1. Open VS Code
-2. Press `Ctrl + ,` (or `Cmd + ,` on macOS) to open Settings
-3. Click the "Open Settings (JSON)" icon in the top-right corner
-4. Paste the following code inside your `settings.json`:
+Hi, I figured it out! So the theme is basically GitHub Dark Default with a few customizations. To add the customizations, you have to open up settings.json and add a few things.
 
+Step 1: Set the theme to GitHub Dark Default.
+
+Step 2: Press `Ctrl + Shift + P` and then type `Preferences: Open Settings (JSON)`
+
+Step 3: Scroll down until you find `workbench.colorCustomizations` and then inside that you should paste this: 
 ```json
 "workbench.colorCustomizations": {
     "[GitHub Dark Default]": {
